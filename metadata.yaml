@@ -1,0 +1,29 @@
+_repo: Under-dispute_71550
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Repplier, Agnes
+    birthdate: 1855
+    deathdate: 1950
+    gutenberg_agent_id: '6888'
+    url: http://www.gutenberg.org/2009/agents/6888
+    wikipedia: https://en.wikipedia.org/wiki/Agnes_Repplier
+description: ''
+gutenberg_issued: '2023-09-02'
+identifiers:
+  gutenberg: '71550'
+language: en
+pgterms:marc904: https://archive.org/details/underdispute0000agne/page/n7/mode/2up
+pgterms:marc905: 20230224171644repplier
+pgterms:marc906: '1924'
+pgterms:marc907: us
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBoston :$bHoughton Mifflin Company, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Under dispute
+url: http://www.gutenberg.org/ebooks/71550
