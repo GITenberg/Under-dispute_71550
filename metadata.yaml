@@ -1,5 +1,8 @@
 _repo: Under-dispute_71550
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71550-h/images/cover.jpg
 creator:
   author:
     agent_name: Repplier, Agnes
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6888
     wikipedia: https://en.wikipedia.org/wiki/Agnes_Repplier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71550#Under-dispute
 gutenberg_issued: '2023-09-02'
 identifiers:
   gutenberg: '71550'
